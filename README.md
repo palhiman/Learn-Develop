@@ -1,2 +1,11 @@
-# Learn-Develop
-My new learning experience.
+# Roadmap to Developing programming skill and practice.
+- 1. Fullstack Development which includes Frontend as well as Backend programming skills.
+- 2. API development
+- 3. Python programming ( Beginners, Intermediate and Advanced)
+- 4. Data Science 
+- 5. Network programming
+- 6. Artificial Intelligence 
+- 7. Block Chain
+- 8. Game Development
+- 9. Assembly programming
+- 10. Learn - Learn - Learn
